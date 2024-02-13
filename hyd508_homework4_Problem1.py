@@ -1,5 +1,4 @@
-# Making 3D plots in python
-
+# Homework 4, Problem 1 a, b, and c
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import cm
